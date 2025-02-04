@@ -1,5 +1,6 @@
 header{
     display: flex;
+    padding: 10px;
     gap: 10px;
     flex-direction: column;
     align-items: center;
@@ -60,6 +61,10 @@ header{
         i{
             font-size: 60px;
             color: var(--title-1);
+        }
+
+        img{
+            height: 100px;
         }
 
         h3{
